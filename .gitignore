@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing / cache
+.pytest_cache/
+.mypy_cache/
+.pytype/
+.pyre/
+
+# Logs
+*.log
+
+# Alembic migration scripts (optional: only ignore versions if you don’t want them in git)
+migrations/versions/
+
+# Database dump files
+*.sql
+
+# Jupyter
+.ipynb_checkpoints/
